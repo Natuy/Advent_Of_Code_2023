@@ -4,7 +4,7 @@
 
 [![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/green)](Day1/Day1.py)
 [![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/green)](Day2/Day2.py)
-![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86/gray)
+[![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%85/green)](Day3/Day3.py)
 ![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/gray)
@@ -44,7 +44,14 @@ Part 1 : 0.000484375 seconds
 Part 2 : 0.000921875 seconds
 ```
 ## DAY 3
-???
+Could be improved but I'm happy with the solution I've found
+```
+Timing for an execution, mean of 1000 itterations
+Part 1 : 0.00578125 seconds
+Part 2 : 0.006578125 seconds
+```
+## DAY 4 ?
+Tomorrow is another day
 
 ```
 Timing for an execution, mean of 1000 itterations
