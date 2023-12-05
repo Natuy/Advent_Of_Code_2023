@@ -6,7 +6,7 @@
 [![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/green)](Day2/Day2.py)
 [![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%85/green)](Day3/Day3.py)
 [![Day](https://badgen.net/badge/04/%E2%98%85%E2%98%85/green)](Day4/Day4.py)
-![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)
+[![Day](https://badgen.net/badge/05/%E2%98%85%E2%98%85/green)](Day5/Day5.py)
 ![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/07/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/08/%E2%98%86%E2%98%86/gray)
@@ -57,7 +57,14 @@ Timing for an execution, mean of 1000 itterations
 Part 1 : 86400? seconds  
 Part 2 : 86400? seconds
 ```
-## DAY 5 ?
+## DAY 5
+I spent far too much time on the second part, which is nonetheless interesting. Will time it when back on my computer
+```
+Timing for an execution, mean of 1000 itterations
+Part 1 : 86400? seconds
+Part 2 : 86400? seconds
+```
+## DAY 6 ?
 Tomorrow is another day
 ```
 Timing for an execution, mean of 1000 itterations
