@@ -51,18 +51,18 @@ Part 1 : 0.00578125 seconds
 Part 2 : 0.006578125 seconds
 ```
 ## DAY 4
-Made fast and dirty. Will time it when back on my computer
+Made fast and dirty.
 ```
 Timing for an execution, mean of 1000 itterations
-Part 1 : 86400? seconds  
-Part 2 : 86400? seconds
+Part 1 : 0.000828125 seconds
+Part 2 : 0.0009375 seconds
 ```
 ## DAY 5
 I spent far too much time on the second part, which is nonetheless interesting. Will time it when back on my computer
 ```
 Timing for an execution, mean of 1000 itterations
-Part 1 : 86400? seconds
-Part 2 : 86400? seconds
+Part 1 : 0.000625 seconds
+Part 2 : 0.004265625 seconds
 ```
 ## DAY 6 ?
 Tomorrow is another day
