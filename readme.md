@@ -79,6 +79,13 @@ Part 1 : 0.0025625 seconds
 Part 2 : 0.002796875 seconds
 ```
 ## DAY 8
+Couldn't do it in the morning and I cheated with the lsm function, not a fan of today
+```
+Timing for an execution, mean of 1000 itterations
+Part 1 : 0.00465625 seconds
+Part 2 : 0.018078125 seconds
+```
+## DAY 9
 Tomorrow is another day
 ```
 Timing for an execution, mean of 1000 itterations
