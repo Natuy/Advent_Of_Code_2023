@@ -86,9 +86,23 @@ Part 1 : 0.00465625 seconds
 Part 2 : 0.018078125 seconds
 ```
 ## DAY 9
-Tomorrow is another day
+Part 2 was almost built from the part 1, an easy one overall.
 ```
 Timing for an execution, mean of 1000 itterations
-Part 1 : 86400? seconds
-Part 2 : 86400? seconds
+Part 1 : 0.003953125 seconds
+Part 2 : 0.003515625 seconds
+```
+## DAY 10
+Was Horrible, maybe i'm just bad. I needed help for the second part.
+```
+Timing for an execution, mean of 1000 itterations
+Part 1 : 0.183125 seconds
+Part 2 : 0.192203125 seconds
+```
+## DAY 11
+A little quick one :).
+```
+Timing for an execution, mean of 1000 itterations
+Part 1 : 0.01528125 seconds
+Part 2 : 0.0141875 seconds
 ```
